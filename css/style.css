@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+#result {
+    background-color: #ffffff;
+}
+
+.dictionary-image {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.container-content {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
